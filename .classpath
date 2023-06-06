@@ -11,5 +11,7 @@
 	<classpathentry kind="src" path="Variables"/>
 	<classpathentry kind="src" path="Methods"/>
 	<classpathentry kind="src" path="Practice"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
